@@ -12,4 +12,4 @@ Computer Graphics in [SIST of ShanghaiTech University](https://sist.shanghaitech
 
 ### Contact me
 
-[wang.shuai@student.uva.nl](mailto:email@domain.com)
+[wang.shuai@student.uva.nl](mailto:wang.shuai@student.uva.nl)
